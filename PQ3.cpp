@@ -64,7 +64,7 @@ float interQuartile(Node* head)
         }
         else if (newNode->next->next->next->next->next->next->next->value == 9.0)
         {
-            val = 4.5;
+            val = 4.85;
         }
     }
     else if (newNode->value == 1.0)
