@@ -29,6 +29,5 @@ int suffixCount(string S, int L) {
 		count = 1;
 	}
 	cout << endl;
-
 	return count;
 }
