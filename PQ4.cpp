@@ -7,7 +7,6 @@
 #include <vector> //Not used, code left that did use it however
 #include <stack> //Not used, just in case it was needed. 
 using namespace std;
-
 class TreeNode 
  {
     public:
